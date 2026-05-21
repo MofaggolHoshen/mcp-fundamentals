@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "bin": {
-    "dev-assist-mcp": "dist/cli.js"
+    "dev-assist-mcp": "dist/index.js"
   },
   "directories": {
     "doc": "docs"
