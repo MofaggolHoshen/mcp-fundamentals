@@ -175,5 +175,5 @@ dist/
 ## Run inspector
 
 ```bash
-npx @modelcontextprotocol/inspector node build/index.js
+npx @modelcontextprotocol/inspector node dist/index.js
 ```
