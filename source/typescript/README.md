@@ -171,3 +171,9 @@ dist/
 - Read the [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 - Add testing with [Jest](https://jestjs.io/) (`npm install --save-dev jest @types/jest ts-jest`)
 - Add linting with [ESLint](https://eslint.org/) (`npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin`)
+
+## Run inspector
+
+```bash
+npx @modelcontextprotocol/inspector node build/index.js
+```
